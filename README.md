@@ -1,0 +1,2 @@
+# goose_using_ssh_with_smartcards
+Спизженая статья
